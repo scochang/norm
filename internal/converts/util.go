@@ -3,7 +3,7 @@ package converts
 import (
 	"reflect"
 
-	nebula_type "github.com/vesoft-inc/nebula-go/v2/nebula"
+	nebula_type "github.com/vesoft-inc/nebula-go/v3/nebula"
 	"github.com/zhihu/norm/constants"
 )
 
